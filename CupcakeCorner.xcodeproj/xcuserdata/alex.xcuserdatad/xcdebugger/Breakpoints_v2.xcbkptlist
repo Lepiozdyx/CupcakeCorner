@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "477DEAD5-6A8D-4070-83E9-8F6A62F9ED3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B3EDCA9-8D6D-4C13-AFCA-3216749BC112"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../var/folders/33/d81rd57s2b3973bh8272cdyh0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5Order10ObservablefMm_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "6B3EDCA9-8D6D-4C13-AFCA-3216749BC112 - 4a401c876e276ccd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Order.init() -&gt; CupcakeCorner.Order"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/33/d81rd57s2b3973bh8272cdyh0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5Order10ObservablefMm_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "6B3EDCA9-8D6D-4C13-AFCA-3216749BC112 - db1473073cb123ed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CupcakeCorner.Order.init(from: Swift.Decoder) throws -&gt; CupcakeCorner.Order"
+                  moduleName = "CupcakeCorner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/33/d81rd57s2b3973bh8272cdyh0000gn/T/swift-generated-sources/@__swiftmacro_13CupcakeCorner5Order10ObservablefMm_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
