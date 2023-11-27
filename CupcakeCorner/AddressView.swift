@@ -12,7 +12,7 @@ struct AddressView: View {
     
     var body: some View {
         Form {
-            Section {
+            Section("Please enter your details") {
                 TextField("Name", text: $order.name)
                 TextField("Street address", text: $order.streetAddress)
                 TextField("City", text: $order.city)
